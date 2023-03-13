@@ -5,4 +5,9 @@ html {
 
 h1, h2, h3 {
     color: #bb1b47;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
 }
